@@ -32,6 +32,14 @@ Generate response
 
 Display response in chatbot UI 
 
+✨Result/Output
+
+<img width="1920" height="1020" alt="Screenshot 2026-03-05 233454" src="https://github.com/user-attachments/assets/6e953990-a9b6-4e67-af68-96cfcf845dab" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-05 233600" src="https://github.com/user-attachments/assets/78d54d9a-1f8b-479d-abd9-7e6128b36482" />
+
+
+
+
 ⚠️ Disclaimer
 
 This chatbot is designed for educational and informational purposes only.
